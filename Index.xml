@@ -10,5 +10,10 @@
       <lastname>Enstein</lastname>
       <nickname>Ally</nickname>	  
 	</student>
+	 <student>
+	  <firstname>Tomas</firstname>
+      <lastname>Edison</lastname>
+      <nickname>Eddy</nickname>	  
+	</student>
 	
   </class>
